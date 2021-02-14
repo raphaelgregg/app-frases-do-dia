@@ -1,6 +1,14 @@
-# app_frases_dia
+# App Frases do Dia
+<img src="./.github/mobile.png" alt="">
 
-A new Flutter project.
+## Techs 
+Esse projeto foi desenvolvido com as seguintes tecnologias
+
+* [ ] Dart
+* [ ] Flutter
+
+## Projeto
+O Frases do dia é um app que gera frases aleatórias pré registras em array atravez da função math. O projeto foi desenvolvido durane o curso __Desenvolvimento Android e IOS com Flutter 2021 - crie Apps__   
 
 ## Getting Started
 
